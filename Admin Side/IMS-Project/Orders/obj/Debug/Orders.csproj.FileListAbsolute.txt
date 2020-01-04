@@ -1,0 +1,12 @@
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\Orders\bin\Debug\Orders.dll.config
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\Orders\bin\Debug\Orders.dll
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\Orders\bin\Debug\Orders.pdb
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\Orders\bin\Debug\DBModel.dll
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\Orders\bin\Debug\EntityFramework.dll
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\Orders\bin\Debug\EntityFramework.SqlServer.dll
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\Orders\bin\Debug\Model.dll
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\Orders\bin\Debug\EntityFramework.xml
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\Orders\bin\Debug\EntityFramework.SqlServer.xml
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\Orders\obj\Debug\Orders.csprojResolveAssemblyReference.cache
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\Orders\obj\Debug\Orders.dll
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\Orders\obj\Debug\Orders.pdb

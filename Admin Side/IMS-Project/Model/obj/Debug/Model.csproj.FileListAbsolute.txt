@@ -1,0 +1,5 @@
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\Model\bin\Debug\Model.dll
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\Model\bin\Debug\Model.pdb
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\Model\obj\Debug\Model.dll
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\Model\obj\Debug\Model.pdb
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
